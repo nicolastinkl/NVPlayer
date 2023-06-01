@@ -1,10 +1,6 @@
 
-# Moives_App 架构简介
-
-
-## Description
-{**Flutter开发的整套基于web/iOS/Android/macOS/windows 系统下的电影App，可以导出不同的安装包，具体下载体验地址：https://gitee.com/xcvbn_admin/googleapis/blob/master/download.md  **}
-
+# NMovice 架构简介
+ 
 
 
 ## Instructions
