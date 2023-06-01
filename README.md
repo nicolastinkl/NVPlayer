@@ -126,7 +126,7 @@ Future<void> _fetchPage(int pageKey) async {
 
 ## 命令行工具
 执行 ./git.sh 
-自动提交代码到gitee.com
+自动提交代码 
 ```shell
 #!/bin/bash
 
