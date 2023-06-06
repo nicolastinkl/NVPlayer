@@ -1,6 +1,10 @@
 
 # NMovice 架构简介
  
+![](previewimsages/Screenshot_20230606-112821.jpg)
+![](previewimsages/Screenshot_20230606-112855.jpg)
+![](previewimsages/Screenshot_20230606-112803.jpg)
+![](previewimsages/Screenshot_20230606-112808.jpg)
 
 
 ## Instructions
