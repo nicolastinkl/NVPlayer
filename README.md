@@ -1,7 +1,7 @@
 
 # NMovice 架构简介
  
-![](previewimsages/page_5.jpg) 
+![](previewimsages/page_5.png) 
 
 
 ## Instructions
