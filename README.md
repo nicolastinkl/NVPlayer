@@ -1,5 +1,5 @@
 # NMovice-flutter
-基于Flutter的视频在线观看播放器，支持m3u8家加密流媒体，支持iOS/Android/web 全平台支持
+基于Flutter的视频在线观看播放器，支持m3u8加密流媒体，支持iOS/Android/web 全平台支持
 
 
 
